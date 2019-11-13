@@ -26,7 +26,7 @@ const k_muppet = {
 };
 
 // Strings
-
+const [red, orange, yellow, green, blue, indigo, violet] = colors
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
 const[moo,neigh,baa,oink,cluck] = 'cow horse sheep pig chicken'.split(' ')
 // 2. Bolt the horse wandered off, so just give us four animals, and let's name them Bessie, Dolly, Babe, and Little.
