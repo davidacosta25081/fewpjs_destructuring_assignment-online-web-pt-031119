@@ -33,7 +33,7 @@ const[moo,neigh,baa,oink,cluck] = 'cow horse sheep pig chicken'.split(' ')
 const animals = ['cow', 'sheep', 'pig', 'chicken']
 const [Bessie, Dolly, Babe, Little] = animals
 // 3. Little the chicken had to go back to the coop, so now we're left with three. Let's use color variables of black_and_white, black, and pink.
-
+const[black_and_white, black, pink, ] = animals
 // Arrays
 
 // 4. Use destructuring to assign appropriate variables using the color names.
